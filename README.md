@@ -10,7 +10,7 @@ The project task is to analyze data on completed courses and subjects of the tra
 
 3. Determine the average term for passing exams for each subject (passing means the last successful passing of the exam by a student).
 
-4. Identify the most popular courses (TOP-3) by the number of registrations for them and top-3 courses with the largest outflow.
+4. Identify the most popular courses (TOP-3) by the number of registrations for them and top-3 courses with the largest churn.
 
 5. Find the semester with the lowest course completion ratio and the longest average course completion time between the beginning of 2013 and the end of 2014.
 
@@ -68,6 +68,6 @@ The project task is to analyze data on completed courses and subjects of the tra
 
 ## Conclusions
 
-Courses with the shortest deadlines and the shortest duration have the lowest completion ratios. An example - subject **DDD** in semester **2013B**.
-Courses with short deadlines and high churn ratios have difficult final exams. **Top 3** courses with high churn rates - **CCC-2014J**, **DDD-2013B**, **CCC-2014B**.
+Courses with the shortest deadlines and the shortest duration have the lowest completion ratios. An example - subject **DDD** in semester **2013B**.  
+Courses with short deadlines and high churn ratios have difficult final exams. **Top 3** courses with high churn rates - **CCC-2014J**, **DDD-2013B**, **CCC-2014B**.  
 Most students have an average time of passing exams with the first attempt and the highest score. As a result, the e-learning program shows **positive results** and **students cope with it**.
