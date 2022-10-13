@@ -1,3 +1,4 @@
+## Questions to answer
 The project task is to analyze data on completed courses and subjects of the training program and answer the following questions:
 
 1. How many students have successfully passed only one course? (Successful passing is a credit for the course on the exam).
@@ -12,9 +13,9 @@ The project task is to analyze data on completed courses and subjects of the tra
 
 6. Conduct an RFM analysis of students to qualitatively assess your audience.
 
-*completion rate = number of successful exams / number of all attempts to pass the exam
+**completion rate = number of successful exams / number of all attempts to pass the exam*
 
-Datasets:
+## Datasets:
 
 1. assessments.csv - Dataset contains information about the assessments in the test. Typically, each subject in a semester includes a series of graded tests, followed by a final examination test (exam).
 
